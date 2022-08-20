@@ -9,4 +9,6 @@
 7. [Lectura De La Biblia - Día 07 Lectura](https://seagwang1124.github.io/90html-es/D%C3%ADa%2007%20Lectura.html)
 
 
-91. [Lectura De La Biblia - 90days-es.xls](https://seagwang1124.github.io/90html-es/90days-es.xls)
+91. [90days-es.xls](https://seagwang1124.github.io/90html-es/90days-es.xls)
+92. [bible-list.docx](https://seagwang1124.github.io/90html-es/bible-list.docx)
+93. [bible-list.pdf](https://seagwang1124.github.io/90html-es/bible-list.pdf)
