@@ -23,5 +23,6 @@
 21. [Lectura De La Biblia - Día 21 Lectura](https://seagwang1124.github.io/90html-es/D%C3%ADa%2021%20Lectura.html)
 22. [Lectura De La Biblia - Día 22 Lectura](https://seagwang1124.github.io/90html-es/D%C3%ADa%2022%20Lectura.html)
 23. [90days-es.xls](https://seagwang1124.github.io/90html-es/90days-es.xls)
-24. [bible-list.docx](https://seagwang1124.github.io/90html-es/bible-list.docx)
-25. [bible-list.pdf](https://seagwang1124.github.io/90html-es/bible-list.pdf)
+24. [90días-itinerario.pdf](https://seagwang1124.github.io/90html-es/90días-itinerario.pdf)
+25. [bible-list.docx](https://seagwang1124.github.io/90html-es/bible-list.docx)
+26. [bible-list.pdf](https://seagwang1124.github.io/90html-es/bible-list.pdf)
